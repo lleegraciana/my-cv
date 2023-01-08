@@ -1,0 +1,90 @@
+body {
+  background: #F1DDBF;
+  color: #584E46
+}
+
+img.pic {
+  max-width: 20%;
+  height: auto;
+  border-radius: 50%;
+  border: 10px solid #E6BA95
+}
+
+h1 {
+  font-family: helvetica,sans-serif;
+}
+
+h2.labels {
+  font-family: helvetica, sans-serif;
+  background-color: #E6BA95;
+  padding: 5px;
+  margin-top: 35px;
+  margin-bottom: 0px;
+  font-size: 130%;
+}
+
+h3.positions {
+  font-family: helvetica, sans-serif;
+  font-size: 110%;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+
+h4 {
+  font-family: helvetica, serif;
+}
+
+p.place {
+  font-family: didot, serif;
+  color: #6F6258;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-size: 90%;
+}
+
+p.date {
+  font-family: didot, serif;
+  color: #6F6258;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-size: 90%;
+}
+
+p.job-description {
+  font-family: arial, sans-serif;
+  font-size: 90%;
+  padding-top: 2px;
+  padding-bottom: 10px;
+  padding-right: 300px;
+}
+
+p {
+  font-family: arial, sans-serif;
+}
+
+ul {
+  font-family: arial, sans-serif;
+  list-style-type: circle;
+}
+
+ul.socials {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 35px;
+}
+.socials li {
+  margin: 0 10px;
+}
+.socials img:hover {
+  box-shadow: 0 0 2px 1px rgba(94, 126, 39, 0.5);
+}
+
+
+div.footer-content {
+  font-family: arial, serif;
+  color: #6D8B74;
+  background-color: #EEE6CE;
+  text-align: center;
+}
